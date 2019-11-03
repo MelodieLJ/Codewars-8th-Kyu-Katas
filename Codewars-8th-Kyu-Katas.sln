@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars-8th-Kyu-Katas", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_String_to_Array", "Convert_String_to_Array\Convert_String_to_Array.csproj", "{E87E3619-62B9-41AB-B99A-2CE3D7D5DAE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_First_and_Last_Char", "Remove_First_and_Last_Char\Remove_First_and_Last_Char.csproj", "{BDEE2C62-B1FD-49BD-AF8E-02A6684225FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E87E3619-62B9-41AB-B99A-2CE3D7D5DAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E87E3619-62B9-41AB-B99A-2CE3D7D5DAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E87E3619-62B9-41AB-B99A-2CE3D7D5DAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEE2C62-B1FD-49BD-AF8E-02A6684225FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEE2C62-B1FD-49BD-AF8E-02A6684225FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEE2C62-B1FD-49BD-AF8E-02A6684225FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEE2C62-B1FD-49BD-AF8E-02A6684225FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
