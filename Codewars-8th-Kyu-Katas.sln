@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_First_Non_Consecutive_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "101_Dalmatians_squash_the_bugs_not_the_dogs", "101_Dalmatians_squash_the_bugs_not_the_dogs\101_Dalmatians_squash_the_bugs_not_the_dogs.csproj", "{4CD4C2D6-9AFC-4360-94A1-05A9BF11CF73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alternating_Upper_or_Lower_Case", "Alternating_Upper_or_Lower_Case\Alternating_Upper_or_Lower_Case.csproj", "{CF72368E-E171-4E7A-AB87-56DDB6182EB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4CD4C2D6-9AFC-4360-94A1-05A9BF11CF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CD4C2D6-9AFC-4360-94A1-05A9BF11CF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CD4C2D6-9AFC-4360-94A1-05A9BF11CF73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF72368E-E171-4E7A-AB87-56DDB6182EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF72368E-E171-4E7A-AB87-56DDB6182EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF72368E-E171-4E7A-AB87-56DDB6182EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF72368E-E171-4E7A-AB87-56DDB6182EB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
