@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_with_Array", "Coun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculating_BMI", "Calculating_BMI\Calculating_BMI.csproj", "{F5A05F26-597F-4730-A929-FD11CBCD2119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of ints and letters", "Sum of ints and letters\Sum of ints and letters.csproj", "{DE7E9E2A-B586-4392-9A19-B571FADAF417}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{F5A05F26-597F-4730-A929-FD11CBCD2119}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5A05F26-597F-4730-A929-FD11CBCD2119}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5A05F26-597F-4730-A929-FD11CBCD2119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7E9E2A-B586-4392-9A19-B571FADAF417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7E9E2A-B586-4392-9A19-B571FADAF417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7E9E2A-B586-4392-9A19-B571FADAF417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7E9E2A-B586-4392-9A19-B571FADAF417}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
