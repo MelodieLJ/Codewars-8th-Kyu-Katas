@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of ints and letters", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Vowels", "Remove Vowels\Remove Vowels.csproj", "{5469EEE8-4F37-467E-A379-AC9405929E25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array plus Array", "Array plus Array\Array plus Array.csproj", "{6FA11CEA-90A3-4BCA-BFA2-5C7245C736AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array plus Array", "Array plus Array\Array plus Array.csproj", "{6FA11CEA-90A3-4BCA-BFA2-5C7245C736AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check if n is divisible by x and y", "Check if n is divisible by x and y\Check if n is divisible by x and y.csproj", "{CD667A22-E8EF-411C-8401-E653EFEAAD5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{6FA11CEA-90A3-4BCA-BFA2-5C7245C736AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA11CEA-90A3-4BCA-BFA2-5C7245C736AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA11CEA-90A3-4BCA-BFA2-5C7245C736AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD667A22-E8EF-411C-8401-E653EFEAAD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD667A22-E8EF-411C-8401-E653EFEAAD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD667A22-E8EF-411C-8401-E653EFEAAD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD667A22-E8EF-411C-8401-E653EFEAAD5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
